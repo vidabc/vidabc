@@ -8,7 +8,7 @@
 
 🌱 Here on GitHub, you'll find a collection of projects that highlight my journey in data analysis. Let's connect and turn data into action!
 
-## 📜 Certificates
+### 📜 Certificates
 - [Masterschool Data Analytics](./certificates/Data_Analytics_Masterschool.pdf)
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vida-abbasi/) to discuss ideas or opportunities!
